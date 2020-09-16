@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Darya Kochubey](https://up.htmlacademy.ru/javascript/21/user/693173).
-* Наставник: `Неизвестно`.
+* Наставник: [Пётр Двухреченский](https://htmlacademy.ru/profile/id1223515).
 
 ---
 
